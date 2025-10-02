@@ -1,3 +1,7 @@
 arroz
 leite
 macarrao
+feijão
+leite
+laranja
+manga
