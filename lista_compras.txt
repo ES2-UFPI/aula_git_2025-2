@@ -1,7 +1,8 @@
 arroz
 leite
 macarrao
-feijão
+ovos
+farinha de trigo
 leite
 laranja
 manga
