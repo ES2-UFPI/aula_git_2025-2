@@ -1,3 +1,5 @@
 arroz
 feijão
 leite
+laranja
+manga
