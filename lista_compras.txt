@@ -8,3 +8,4 @@ manga
 SUCO DE MARACUJÁ
 abacaxi
 Sopa de gelo
+melancia
